@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Combining my love of Data Science, Football and all things NCFC.  
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Picking though the bones of the the most recent NCFC performance using the power of data.
